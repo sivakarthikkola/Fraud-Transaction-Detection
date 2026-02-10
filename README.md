@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  Fraud Transaction Detection
 
 
@@ -199,5 +199,3 @@ The company may expect a revenue of R\$ 57,251,574.44. This result may show the 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 =======
 # Fraud-Transaction-Detection
-Data Science Project
->>>>>>> b5562ed261d68db0153439e9246fa9e5a93f75ff
