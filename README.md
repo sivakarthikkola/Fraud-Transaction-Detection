@@ -1,6 +1,6 @@
-# Transaction Fraud Detection
+<<<<<<< HEAD
+#  Fraud Transaction Detection
 
-A data science project to predict whether a transaction is a fraud or not.
 
 <div align="center">
     <img alt="Transaction Fraud Detection" src="./reports/figures/high-angle-credit-card-with-hook-phishing.jpg" width="100%" height="300">
@@ -197,3 +197,7 @@ The company may expect a revenue of R\$ 57,251,574.44. This result may show the 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+=======
+# Fraud-Transaction-Detection
+Data Science Project
+>>>>>>> b5562ed261d68db0153439e9246fa9e5a93f75ff
